@@ -1,10 +1,9 @@
 # Week 03: Web Foundations
 ## Author
-- **Name:** Amos Kimiti  
-- **GitHub:** [@Kimiti4](https://github.com/Kimiti4)  
+- **Name:**Dennis kibathi
 - **Date:** March 7th, 2026  
 
-# Amos Kimiti – Week 03 Project
+#  Week 03 Project
 
 This repository contains my **Week 03 portfolio project** for the IYF Weekend Academy program.
 The focus this week was learning **terminal commands, Git workflow, and project organization**.
@@ -13,13 +12,6 @@ I practiced managing files through the command line, creating Git commits with m
 
 ---
 
-## Live Demo
-
-View the project online:
-
-https://Kimiti4.github.io/iyf-s10-week-01-Kimiti4
-
----
 
 ## Features
 
@@ -44,7 +36,7 @@ https://Kimiti4.github.io/iyf-s10-week-01-Kimiti4
 ## Project Structure
 
 ```
-iyf-s10-week-03-Kimiti4
+iyf-s10-week-03-oprysean
 my-project
 │
 ├── docs
@@ -85,14 +77,6 @@ During this week I learned how to:
 * Improve portfolio design with advanced CSS
 * Add project filtering functionality
 * Deploy additional projects
-
----
-
-## Contact
-
-Email: [karamos473@gmail.com](mailto:karamos473@gmail.com)
-
-GitHub: https://github.com/Kimiti4
 
 ---
 
